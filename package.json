@@ -1,0 +1,16 @@
+{
+  "name": "bitfields",
+  "version": "1.0.0",
+  "description": "A simple lib to make bitfields easier",
+  "main": "out/index.js",
+  "types": "out/index.d.ts",
+  "author": "Zelak312",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.0",
+    "typescript": "^3.1.3"
+  },
+  "scripts": {
+    "build": "yarn tsc"
+  }
+}
